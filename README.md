@@ -19,7 +19,7 @@ Input Validation: Check if input data for items is correctly processed.
 
 Detailed Output: Display details of any purchase by its Purchase ID.
 
-Requirements
+Requirements:
 C++ Compiler: The project uses standard C++ libraries and a few custom headers.
 Input Files:
 fruits.txt: A file containing fruit inventory data.
