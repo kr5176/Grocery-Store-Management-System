@@ -4,7 +4,7 @@ Grocery Shop Management System
 
 This project is a C++-based Grocery Shop Management System designed to efficiently manage fruits and vegetables inventory, purchases, feedback, and more. The program enables users to interact with the system through a menu-driven console application.
 
-Features
+Features:
 Inventory Management: Add, view, and search for fruits and vegetables in the system.
 
 Purchase Functionality: Purchase items and track them by Purchase ID.
