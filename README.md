@@ -32,7 +32,7 @@ Add Vegetables: Input details of vegetables to add to the system.
 
 View All Items: Display the complete list of items in the inventory.
 
-Purchase Items: Buy items based on type and quantity.
+Purchase Items: Buy items based on type and quantity..
 
 Search in Area: Find items within specified geographical bounds.
 
@@ -46,4 +46,4 @@ Validate Fruit Input: Test if input details for fruits are processed correctly.
 
 Validate Vegetable Input: Test if input details for vegetables are processed correctly.
 
-Exit: Exit the application.
+Exit: Exit the application..
